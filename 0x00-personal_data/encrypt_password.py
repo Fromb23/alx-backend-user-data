@@ -1,6 +1,7 @@
-
 #!/usr/bin/env python3
-""" doc doc doc """
+"""
+doc doc doc
+"""
 import bcrypt
 
 
